@@ -6,3 +6,4 @@ Added by developer-4
 Learning git branching
 Fixing defect-1
 Fixing defect-2
+Fixing defect-3
